@@ -1,0 +1,5 @@
+[tool.poetry]
+name = "Complete-Python-3-Bootcamp"
+version = "0.1.0"
+description = "A great Python project"
+authors = ["Peter Heller pheller@qc.cuny.edu"]
